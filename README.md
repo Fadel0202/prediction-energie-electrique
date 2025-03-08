@@ -46,7 +46,7 @@ Le modèle SARIMA développé présente une performance solide avec une MAPE de 
 ## Installation
 
 ```bash
-git clone https://github.com/username/energy-production-forecast.git
+git clone https://github.com/username/prediction-energie-electrique.git
 cd energy-production-forecast
 pip install -r requirements.txt
 ```
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 1. Exécutez les notebooks dans l'ordre pour reproduire l'analyse complète:
    ```
-   jupyter notebook notebooks/01_data_collection.ipynb
+   jupyter notebook notebooks/test_prediction_energie_electrique.ipynb
    ```
 
 2. Pour utiliser directement le modèle de prévision:
